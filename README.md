@@ -1,5 +1,7 @@
 Calculator Builder - User Guide
+---------------------------------------------
 Basic Features
+
 Component Palette
 
 Numbers (0-9): Drag numbers to build your keypad
@@ -16,7 +18,9 @@ Numbers are automatically entered when dragged
 Operators work immediately when dragged
 Click "=" to see the result
 Click "C" to clear and start over
+----------------------------------------------------
 Advanced Features
+
 Keyboard Support
 
 Type numbers (0-9) directly
